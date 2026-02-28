@@ -1,2 +1,2 @@
 # Hylinkstechnical
-<a href="index1.html">View</a><H2>our school website</H2>
+This is our website link.<a href="index1.html">View</a> to explore content about the institution.
